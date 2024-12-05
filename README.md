@@ -51,11 +51,10 @@ reduces the need for people to purchase items they only need occasionally.
 - **Review**:The Reviews feature allows users to add reviews for rental items and view existing reviews based on the item’s serial number.
 
   ## Getting Started
-  To get started with CommuniCraft API, follow these steps:
-   -  1- Clone the repository:https://github.com/Jullnar-Hajeh/RentItOutASoftwareProject.git.
-   -  2- Install dependencies: npm install.
-   - 3- Configure environment variables.
-   - 4- Run the application: npm start.
+  To get started with RentItOut API, follow these steps:
+   -  1- Install dependencies: npm install.
+   - 2- Configure environment variables.
+   - 3- Run the application: npm start.
 
 ## API Documentation
 [Postman_Documentation](https://documenter.getpostman.com/view/38698558/2sAY52bKCK)
